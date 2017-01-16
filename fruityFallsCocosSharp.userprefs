@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B4F16F1C-BA49-42C0-A09F-8335FB59EE2C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="fruityFallsCocosSharp/App.xaml.cs">
+    <Files>
+      <File FileName="fruityFallsCocosSharp/HomePage.cs" Line="1" Column="1" />
+      <File FileName="fruityFallsCocosSharp/App.xaml" Line="1" Column="1" />
+      <File FileName="fruityFallsCocosSharp/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.fruityFallsCocosSharp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.92D2E570-63DD-4AA0-B18E-3C29E752DEA8" />
+</Properties>
