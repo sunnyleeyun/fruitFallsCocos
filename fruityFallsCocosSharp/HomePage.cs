@@ -1,6 +1,7 @@
 ﻿using System;
-//
+
 using Xamarin.Forms;
+
 
 namespace fruityFallsCocosSharp
 {
@@ -8,6 +9,9 @@ namespace fruityFallsCocosSharp
 	{
 		public HomePage()
 		{
+			
+			contentSearchPaths.Add("Images");
+
 			Content = new StackLayout
 			{
 				Children = {
