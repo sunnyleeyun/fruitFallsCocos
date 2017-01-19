@@ -8,7 +8,7 @@ namespace fruityFallsCocosSharp
 		{
 			InitializeComponent();
 
-			MainPage = new fruityFallsCocosSharpPage();
+			MainPage = new HomePage();
 		}
 
 		protected override void OnStart()
